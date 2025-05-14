@@ -48,7 +48,7 @@ A responsive and visually engaging web application for a fictional laptop store,
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/rakfi/laptop-store.git
+    git clone https://github.com/asrasulaima/laptop-store.git
     ```
 
 2. Navigate to the project directory:
