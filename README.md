@@ -80,3 +80,7 @@ A responsive and visually engaging web application for a fictional laptop store,
 
 ## Project Structure
 
+##Demo
+https://github.com/user-attachments/assets/02e6c6ac-5158-4463-9323-53adc73e5a4b
+
+
